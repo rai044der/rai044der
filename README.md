@@ -1,12 +1,12 @@
-## Привет! 👋
+## Sup! 👋
 
-Меня зовут Александр, немного обо мне:
+My name is Aleksandr:
 
-- 🎓 Студент 4-го курса направления ИВТ в ИАТЭ НИЯУ МИФИ, имею образование оператора БПЛА
-- 🧐 Интересы: программирование встраиваемых систем, робототехника, беспилотники
-- 🥇 Занял 2-е и 1-е места на всероссийском чемпионате WorldSkills по беспилотникам в 2022 и 2023 году.
-- 📫 Мои контакты: 
-  * Телеграм: [@rai044der](https://t.me/rai044der)
-  * ВК: [Александр Офицеров](https://vk.com/rai044der)
+- 🎓 I have master degree in Computer Science
+- 🧐 Interests and hobby: embedded systems, robotics, UAVs, cars and CAD modeling.
+- 🥇 Winner of WorldSkills in Russia among students in 2023 year in UAV discipline.
+- 📫 My contacts: 
+  * TG: [@rai044der](https://t.me/rai044der)
+  * VK: [Александр Офицеров](https://vk.com/rai044der)
   * E-mail: rai044der@gmail.com
-- 📝 Мое портфолио: [rai044der.github.io](https://rai044der.github.io/)
+- 📝 My portfolio: [rai044der.github.io](https://rai044der.github.io/)
